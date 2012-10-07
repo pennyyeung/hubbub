@@ -1,3 +1,4 @@
+
 module ApplicationHelper
 
 	#Return the full title
